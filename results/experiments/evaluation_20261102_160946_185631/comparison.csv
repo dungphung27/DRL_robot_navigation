@@ -1,0 +1,3 @@
+episodes,success,collision,timeout,success_rate_pct,collision_rate_pct,timeout_rate_pct,mean_steps_to_success,median_steps_to_success,mean_total_reward,mean_path_length_success,name,checkpoint
+200,100,4,96,50.0,2.0,48.0,248.19,250.0,127.29407297397789,145.00999999999996,checkpoint_20261102_004352_033646/dqn_100_0,checkpoints/checkpoint_20261102_004352_033646/dqn_100_0.pth
+200,121,13,66,60.5,6.5,33.0,401.44628099173553,337.0,186.57504161215638,222.28099173553716,checkpoint_20261102_145334_307674/checkpoint_1000000,checkpoints/checkpoint_20261102_145334_307674/checkpoint_1000000.pt

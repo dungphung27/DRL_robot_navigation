@@ -1,0 +1,19 @@
+{
+  "episodes": 200,
+  "success": 167,
+  "collision": 2,
+  "timeout": 31,
+  "success_rate_pct": 83.5,
+  "collision_rate_pct": 1.0,
+  "timeout_rate_pct": 15.5,
+  "mean_steps_to_success": 305.3293413173653,
+  "median_steps_to_success": 307.0,
+  "mean_total_reward": 270.62829811388366,
+  "mean_path_length_success": 177.1377245508982,
+  "name": "dqn_2H_seed42",
+  "algorithm": "dqn",
+  "hidden_layers": 2,
+  "hidden_dim": 256,
+  "seed": 42,
+  "checkpoint": "results/state_sincos/experiments_20261102_175459_321734/dqn_2H_seed42/checkpoints/dqn_final.pth"
+}

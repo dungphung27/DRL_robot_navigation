@@ -1,0 +1,13 @@
+{
+  "command": "evaluate",
+  "max_steps": 1000,
+  "output": "results/experiments",
+  "cuda": false,
+  "checkpoints": [
+    "results/state_sincos/experiments_20261102_175459_321734/dqn_2H_seed42/checkpoints/dqn_final.pth"
+  ],
+  "random_policy": false,
+  "episodes": 300,
+  "seed": 2026,
+  "render": false
+}

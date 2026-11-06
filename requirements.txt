@@ -1,0 +1,5 @@
+numpy
+matplotlib
+more_itertools
+torch==1.10.1
+tqdm

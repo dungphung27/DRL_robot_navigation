@@ -1,0 +1,13 @@
+{
+  "command": "evaluate",
+  "max_steps": 1000,
+  "output": "results/experiments",
+  "cuda": false,
+  "checkpoints": [
+    "checkpoints/checkpoint_20261102_004352_033646/dqn_100_0.pth"
+  ],
+  "random_policy": false,
+  "episodes": 400,
+  "seed": 2026,
+  "render": true
+}

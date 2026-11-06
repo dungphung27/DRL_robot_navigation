@@ -1,0 +1,7 @@
+{
+  "checkpoint": "results/state_sincos/experiments_20261102_175459_321734/dqn_2H_seed42/checkpoints/dqn_final.pth",
+  "input_dim": 64,
+  "output_dim": 3,
+  "hidden_layers": 2,
+  "hidden_dim": 256
+}

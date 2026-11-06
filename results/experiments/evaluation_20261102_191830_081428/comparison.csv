@@ -1,0 +1,2 @@
+episodes,success,collision,timeout,success_rate_pct,collision_rate_pct,timeout_rate_pct,mean_steps_to_success,median_steps_to_success,mean_total_reward,mean_path_length_success,name,checkpoint
+200,165,4,31,82.5,2.0,15.5,291.369696969697,291.0,266.9134746374095,168.58181818181814,checkpoints/dqn_final,results/state_sincos/experiments_20261102_175459_321734/dqn_2H_seed42/checkpoints/dqn_final.pth

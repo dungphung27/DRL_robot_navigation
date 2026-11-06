@@ -1,0 +1,8 @@
+{
+  "step": 1000000,
+  "checkpoint": "checkpoints/checkpoint_20261102_145334_307674/checkpoint_1000000.pt",
+  "input_dim": 64,
+  "output_dim": 3,
+  "hidden_layers": 2,
+  "hidden_dim": 256
+}

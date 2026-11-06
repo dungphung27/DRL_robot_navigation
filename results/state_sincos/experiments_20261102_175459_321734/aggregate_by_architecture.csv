@@ -1,0 +1,2 @@
+algorithm,hidden_layers,hidden_dim,seeds_completed,mean_success_rate_pct,std_success_rate_pct,mean_collision_rate_pct,mean_timeout_rate_pct
+dqn,2,256,1,83.5,,1.0,15.5

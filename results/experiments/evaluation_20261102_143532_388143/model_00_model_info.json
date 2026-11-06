@@ -1,0 +1,7 @@
+{
+  "checkpoint": "checkpoints/checkpoint_20261102_004352_033646/dqn_100_0.pth",
+  "input_dim": 64,
+  "output_dim": 3,
+  "hidden_layers": 2,
+  "hidden_dim": 256
+}

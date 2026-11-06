@@ -1,0 +1,3 @@
+episodes,success,collision,timeout,success_rate_pct,collision_rate_pct,timeout_rate_pct,mean_steps_to_success,median_steps_to_success,mean_total_reward,mean_path_length_success,name,algorithm,hidden_layers,hidden_dim,seed,checkpoint
+300,260,0,40,86.66666666666667,0.0,13.333333333333334,288.57307692307694,275.0,283.6513074205139,177.59615384615384,dqn_1H_seed42,dqn,1,256,42,results/state_sincos_architecture/experiments_20261102_202932_267505/dqn_1H_seed42/checkpoints/dqn_final.pth
+300,291,0,9,97.0,0.0,3.0,272.0893470790378,268.0,328.33325866338674,160.5498281786941,dqn_3H_seed42,dqn,3,256,42,results/state_sincos_architecture/experiments_20261102_202932_267505/dqn_3H_seed42/checkpoints/dqn_final.pth

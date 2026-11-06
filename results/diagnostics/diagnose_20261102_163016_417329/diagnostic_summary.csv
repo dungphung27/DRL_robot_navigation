@@ -1,0 +1,3 @@
+episodes,success_rate_pct,collision_rate_pct,timeout_rate_pct,timeout_with_turn_streak_ge_100,timeout_with_forward_pct_lt_10,timeout_with_no_new_best_goal_distance_ge_200,timeout_mean_forward_pct,timeout_mean_path_length,model_id,checkpoint
+200,50.0,2.0,48.0,96,78,96,4.86,48.59,0,checkpoints/checkpoint_20261102_004352_033646/dqn_100_0.pth
+200,60.5,6.5,33.0,54,40,66,15.59,155.88,1,checkpoints/checkpoint_20261102_145334_307674/checkpoint_1000000.pt
